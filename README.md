@@ -48,4 +48,3 @@ third-party integrations, and raising the engineering bar around me.
 
 - LinkedIn — [raheed-farooq](https://de.linkedin.com/in/raheed-farooq)
 - Email — raheedfarooq65@gmail.com
-- 
