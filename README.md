@@ -1,11 +1,13 @@
 # Hi, I'm Raheed 👋
 
 **Full-Stack Software Engineer** based in Berlin. I build high-traffic
-**TypeScript** products end to end — React/Next.js front-ends, Node.js services,
-and the data and observability layers underneath — and I'm drawn to the gnarly
-parts: payment & billing systems, event-driven flows, ETL/data pipelines,
-and the monitoring that keeps them honest. I care about clean architecture, solid
-third-party integrations, and raising the engineering bar around me.
+**TypeScript** products end to end: React/Next.js front-ends, Node.js services,
+and the data and observability layers underneath. I'm drawn to the hard parts:
+payment & billing systems, event-driven flows, ETL/data pipelines, and the
+monitoring around them. I care about clean architecture, solid third-party
+integrations, and raising the engineering bar around me.
+
+🌐 **[raheedfarooq.vercel.app](https://raheedfarooq.vercel.app)**
 
 ### 🛠️ Tech I work with
 
@@ -33,18 +35,19 @@ third-party integrations, and raising the engineering bar around me.
 
 ### 🚀 Featured projects
 
-- **[🦈 Shark](https://github.com/RaheedFarooq/shark)** — a brutally honest
-  product/idea evaluator skill for Claude Code: scored teardowns, competitive
+- **[🦈 Shark](https://github.com/RaheedFarooq/shark)**: a brutally honest
+  product/idea evaluator skill for Claude Code, with scored teardowns, competitive
   research, and strategic action plans.
 - **[🌍 Voyager](https://github.com/RaheedFarooq/Voyager)** ·
-  [live demo](https://voyager-rouge-nine.vercel.app) — an interactive 3D globe
+  [live demo](https://voyager-rouge-nine.vercel.app): an interactive 3D globe
   that shows who was alive and what was happening anywhere in the world at any
   moment in history. Built with React, TypeScript & Three.js (react-three-fiber),
   procedural WebGL geometry, and a Zustand store.
-- **[CustomApis](https://github.com/RaheedFarooq/customendpoints_api)** — a
+- **[CustomApis](https://github.com/RaheedFarooq/customendpoints_api)**: a
   schema-based mock API generator (Node.js + Firestore, React + Tailwind).
 
 ### 📫 Connect
 
-- LinkedIn — [raheed-farooq](https://de.linkedin.com/in/raheed-farooq)
-- Email — raheedfarooq65@gmail.com
+- Portfolio · [raheedfarooq.vercel.app](https://raheedfarooq.vercel.app)
+- LinkedIn · [raheed-farooq](https://de.linkedin.com/in/raheed-farooq)
+- Email · raheedfarooq65@gmail.com
