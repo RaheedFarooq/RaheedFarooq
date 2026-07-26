@@ -39,7 +39,7 @@ integrations, and raising the engineering bar around me.
   product/idea evaluator skill for Claude Code, with scored teardowns, competitive
   research, and strategic action plans.
 - **[🌍 Voyager](https://github.com/RaheedFarooq/Voyager)** ·
-  [live demo](https://voyager-rouge-nine.vercel.app): an interactive 3D globe
+  [live demo](https://timevoyager.vercel.app): an interactive 3D globe
   that shows who was alive and what was happening anywhere in the world at any
   moment in history. Built with React, TypeScript & Three.js (react-three-fiber),
   procedural WebGL geometry, and a Zustand store.
